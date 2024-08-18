@@ -3,3 +3,7 @@ node server.js
 node --watch server.js
 
 npm i -D @babel/core @babel/preset-env @babel/preset-react @babel/register
+
+npm i react-dom
+
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
